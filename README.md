@@ -1,0 +1,2 @@
+# Amaz.github.io
+website
